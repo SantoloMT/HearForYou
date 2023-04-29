@@ -1,5 +1,7 @@
 # HearForYou
 
+Bot Telegram Hear For You with Speech to Text - Text to Speech - LUIS - OCR Computer Vision powered by Microsoft Azure.
+
 Bot Framework v4 core bot sample.
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to:
