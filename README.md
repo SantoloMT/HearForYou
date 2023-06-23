@@ -2,7 +2,7 @@
 
 Bot Telegram Hear For You with Speech to Text - Text to Speech - LUIS - OCR Computer Vision powered by Microsoft Azure.
 
-Telegram bot for users with listening and/or reading difficulties that can convert text messages into audio and voice recordings from any source (thanks to an internal format conversion engine) into text. In addition, the bot also provides the possibility of converting photos of documents into text thanks to Microsoft Azure's OCR Vision engine. In addition, the bot also features a language understanding service (LUIS - Microsoft Azure), which makes it possible to interact with the bot through spoken language.The Bot was developed using the Javascript language and the services Speech to Text, OCR Vision, LUIS and the Microsoft Azure Bot service.
+Telegram bot for users with listening and/or reading difficulties that can convert text messages into audio and voice recordings from any source (thanks to an internal format conversion engine) into text. In addition, the bot also provides the possibility of converting photos of documents into text throught Microsoft Azure's OCR Vision engine. In addition, the bot also features a language understanding service (LUIS - Microsoft Azure), which makes it possible to interact with the bot through spoken language.The Bot was developed using the Javascript language and the services Speech to Text, OCR Vision, LUIS and the Microsoft Azure Bot service.
 
 
 ## Prerequisites
